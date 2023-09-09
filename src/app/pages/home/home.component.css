@@ -1,0 +1,9 @@
+.container-articles{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-main{
+    margin-top: 30px;
+}

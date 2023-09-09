@@ -1,0 +1,21 @@
+.header-container{
+    color:#fff;
+}
+
+.header-container > h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-container > hr{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+}
