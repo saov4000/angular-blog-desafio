@@ -1,5 +1,6 @@
 .container-small-card{
     margin-left: 20px;
+    background-color: #000;
 }
 
 .small-card-content{
@@ -24,3 +25,4 @@
     margin-top: 20px;
     border: 1px solid #fff;
 }
+

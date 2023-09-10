@@ -1,12 +1,12 @@
 <div class="container-small-card">
     <div class="small-card-content">
         <div class="small-card-image">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg" alt="">
+            <img src="{{smallCardImage}}" alt="">
         </div>
         <div class="small-card-title">
-            <a href="http://">
+            <a [routerLink]="['content',id]">
                 <h1> 
-                    Lorem ipsum Title title title Lorem ipsum Title title title Lorem ipsum Title title title Lorem ipsum
+                    {{smallCardTitle}}
                 </h1>
             </a> 
         </div>

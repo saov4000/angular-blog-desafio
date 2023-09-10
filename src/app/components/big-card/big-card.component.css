@@ -8,6 +8,7 @@
     margin-right: 10px;
     height: 600px;
     width: 500px;
+    background-color: #000;
 }
 
 .big-card-title{
@@ -15,14 +16,13 @@
     margin-top: 20px;
     margin-left: 20px;
 }
-.big-card-details{
-    margin-left: 20px;
-    margin-top: 20px;
+.big-card-details p{
+    margin: 20px;
     color: grey;
 }
 
 .big-card-image > img{
-    margin-left: 20px;
-    margin-top: 20px;
-    width: 500px;
+    margin: 20px;
+    width: 450px;
 }
+

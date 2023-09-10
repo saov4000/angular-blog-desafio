@@ -1,0 +1,13 @@
+@media screen and (max-width:400px) {
+
+    .container-articles{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100vw;
+    }
+    .articles-main{
+        width: 100vw;
+    }
+    
+}
